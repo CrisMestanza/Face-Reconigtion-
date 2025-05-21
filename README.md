@@ -1,0 +1,1 @@
+Uso el modelo pre entrenado de Face Net para extraer un Embedding por cada persona úniica que es almacenada y posteriormente lo uso con cámara para realizar la detección con MTCNN y el reconocimiento conn FaceNet(InceptionResnetV1) de la librería facenet_pytorch:
